@@ -1,0 +1,12 @@
+export const GET_UNITS = 'GET_UNITS';
+export const SET_UNITS = 'SET_UNITS';
+export const API_ERROR = 'LOGIN_API_ERROR';
+export const SET_UNIT = 'SET_UNIT';
+export const ADD_UNIT = 'ADD_UNIT';
+export const EMPTY_UNIT = 'EMPTY_UNIT';
+export const DELETE_UNIT = 'DELETE_UNIT';
+export const EDIT_UNIT = 'EDIT_UNIT';
+export const UPDATE_UNIT = 'UPDATE_UNIT';
+export const SET_UNIT_FILTER = 'SET_UNIT_FILTER';
+export const GET_UNITS_LIST = 'GET_UNITS_LIST';
+export const SET_UNITS_LIST = 'SET_UNITS_LIST';

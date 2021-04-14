@@ -1,0 +1,5 @@
+
+export const API_ERROR = 'SETTING_API_ERROR';
+export const SET_SETTING = 'SET_SETTING';
+export const EDIT_SETTING = 'EDIT_SETTING';
+export const UPDATE_SETTING = 'UPDATE_SETTING';

@@ -1,0 +1,509 @@
+.wookai_background_orange {
+    background-color: #F97C00 !important;
+}
+
+.wookai_orange {
+    color: #F97C00 !important;
+}
+
+.wookai_orange_button {
+    background-color: #F97C00 !important;
+    border-color: #F97C00 !important;
+}
+
+.wookai_background_blue {
+    background-color: #2491EB !important;
+}
+
+.wookai_blue {
+    color: #2491EB !important;
+}
+
+.wookai_blue_button {
+    background-color: #2491EB !important;
+    border-color: #2491EB !important;
+}
+
+.list-items button.btn,
+.subcat-btn button.waves-effect.btn-primary {
+    width: 100%;
+}
+.was-validated .form-control:invalid, .form-control.is-invalid {
+    background-position: right calc(0.875em + 0.235rem) center;
+}
+/* dashboard page banner css start */
+.banner-wrap {
+	background-image: url('../images/bannerbg.jpg');
+	padding: 90px 0;	
+}
+.banner-inner {
+    max-width: 1250px;
+    margin: auto;
+    width: 100%;
+}
+.banner-inner ul {
+	list-style:  none;
+}
+.icons li a{
+	padding: 30px 0px;
+	display: block;	
+}
+.icons li {
+    width: 125px;
+    height: 125px;
+    background: #fff;
+    border-radius: 100px;
+    text-align: center;
+    vertical-align: middle;
+    box-shadow: 6px 10.392px 0px 0px rgba(152, 98, 34, 0.64);
+
+}
+li.countorder {
+    position: absolute;
+    bottom: 0%;
+    left: 15%;
+}
+li.manageaccount {
+    position: absolute;
+    top: -15px;
+}
+li.manageuser {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+}
+.circle-logoinner img {
+    width: 100%;
+}
+ul.left-text, ul.right-text {
+    height: 100%;
+    list-style: none;
+    padding: 0;
+    text-transform: uppercase;
+}
+.circle-logo-wrap ul li {
+    position: absolute;	
+    line-height: 28px;	
+    font-size: 28px;
+    color: #fff;	
+}
+li.first-text {
+    top: 2%;
+    width: 150px;
+}
+li.second-text {
+    position: absolute;
+    top: 39%;
+    width: 150px;
+    text-align: right;
+    left: 0;
+}
+li.third-text {
+    position: absolute;
+    bottom: 9%;
+    left: -6%;
+    width: 230px;
+    text-align: right;
+}
+li.fourth-text {
+    top: 2%;
+    right: -7%;
+    width: 270px;
+}
+li.fifth-text {
+    right: -1%;
+    top: 37%;
+    text-align: left;
+    width: 150px;
+}
+li.sixth-text {
+    bottom: 9%;
+    right: -6%;
+    width: 240px;
+}
+li.manageuser.manageitems {
+    left: auto;
+    right: 45%;
+}
+.icons li p {
+	display: none;
+}
+/* dashboard page banner css end */
+/* Media Query start */
+
+
+@media only screen and (max-width: 1450px) {
+.circle-logo-wrap ul li {
+    line-height: 24px;
+    font-size: 22px;
+}
+li.second-text {
+    width: 130px;
+}
+li.third-text {
+    width: 210px;
+}
+li.sixth-text {
+    width: 210px;
+}
+li.fifth-text {
+    top: 39%;
+    width: 140px;
+}
+li.fourth-text {
+    top: 4%;
+    width: 250px;
+}
+li.manageaccount.managelocations {
+    right: 30%;
+    top: -8%;
+	left: auto;
+}
+.icons li {
+    width: 100px;
+    height: 100px;
+}
+.icons li a {
+    padding: 19px 0px;
+}
+li.countorder {
+    left: 26%;
+}
+li.manageuser.manageitems {
+    right: 55%;
+}
+li.manageaccount {
+    left: 40%;
+}
+}
+@media only screen and (max-width: 1350px) {
+.circle-logo-wrap ul li {
+    line-height: 20px;
+    font-size: 18px;
+}
+li.fourth-text {
+    width: 210px;
+}
+li.fifth-text {
+    width: 100px;
+    right: 3%;
+}
+li.third-text {
+    width: 170px;
+    left: -5%;
+}
+li.sixth-text {
+    width: 180px;
+    right: -5%;
+}
+li.second-text {
+    width: 100px;
+    left: 2%;
+}
+li.first-text {
+    top: 4%;
+}	
+li.countorder.mangeorder {
+    left: 10%;
+}
+}
+@media only screen and (max-width: 1300px) {
+.banner-inner {
+    max-width: 980px;
+}	
+	
+}
+@media only screen and (max-width: 1199px) {
+.icons li {
+    width: 65px;
+    height: 65px;
+}	
+.icons li a img {
+    width: 35px;
+}
+.icons li.countorder a img {
+    width: auto;
+    height: 35px;
+}	
+.icons li a {
+    padding: 15px 0px;
+}
+li.countorder {
+    left: 49%;
+    bottom: 5%;
+}
+li.manageuser {
+    left: 70%;
+}
+.circle-logo-wrap ul li {
+    line-height: 16px;
+    font-size: 14px;
+}
+li.first-text {
+    width: 120px;
+}
+li.second-text {
+    width: 80px;
+}
+li.third-text {
+    width: 130px;
+    left: -2%;
+}
+li.sixth-text {
+    width: 150px;
+}
+li.fifth-text {
+    right: 0%;
+}
+li.fourth-text {
+    width: 180px;
+}
+li.manageaccount {
+    left: 50%;
+}
+li.countorder {
+    left: 52%;
+}
+li.countorder.mangeorder {
+    left: 7%;
+}
+li.manageuser.manageitems {
+    right: 70%;
+}
+li.manageaccount.managelocations {
+    right: 52%;
+    top: -2%;
+    left: auto;
+}
+}
+@media only screen and (max-width: 1024px) {
+.circle-logoinner {
+    text-align: center;
+}
+.circle-logoinner img {
+    width: 85%;
+}
+li.first-text {
+    width: 80px;
+    left: 10%;
+}
+li.second-text {
+    width: 70px;
+    left: 7%;
+    top: 37%;
+}
+li.third-text {
+    width: 120px;
+    left: -1%;
+    bottom: 12%;
+}
+li.sixth-text {
+    width: 130px;
+    right: -3%;
+    bottom: 12%;
+}
+li.fifth-text {
+    right: 4%;
+    width: 80px;
+    top: 37%;
+}
+li.fourth-text {
+    width: 130px;
+    right: 0%;
+}
+.icons li {
+    width: 50px;
+    height: 50px;
+}
+.icons li a img {
+    width: 25px;
+}
+.icons li.countorder a img {
+    height: 25px;
+}	
+.icons li a {
+    padding: 12px 0px;
+}
+li.manageaccount {
+    left: auto;
+    right: -20%;
+}
+li.manageuser {
+    left: auto;
+    right: -25%;
+}
+li.countorder {
+    left: auto;
+    right: 2%;
+}
+li.countorder.mangeorder {
+    left: 10%;
+}
+li.manageuser.manageitems {
+    right: auto;
+    left: -25%;
+}
+li.manageaccount.managelocations {
+    right: auto;
+    top: -2%;
+    left: 5%;
+}
+}
+@media only screen and (max-width: 992px) {
+.navbar-brand-box {
+    padding: 0px!important;
+}
+.logo span.logo-sm {
+	display: none !important;
+}
+}
+@media only screen and (max-width: 650px) {
+li.manageaccount, li.manageuser, li.countorder {
+    left: 0;
+    right: auto;
+}
+.banner-wrap {
+    padding: 50px 20px;
+}	
+li.manageaccount.managelocations,
+li.manageuser.manageitems, li.countorder.mangeorder {
+    right: 0;
+    left: auto;
+}
+.circle-logoinner img {
+    width: 90%;
+}
+li.first-text, li.second-text {
+    left: 0px;
+}	
+li.third-text {
+    left: -10%;
+}
+li.fourth-text {
+    right: -10%;
+}
+li.fifth-text {
+    right: -4%;
+    top: 35%;
+}
+li.sixth-text {
+    right: -13%;
+}
+.circle-logo-wrap ul li {
+    font-size: 12px;
+}
+}
+@media only screen and (max-width: 575px) {
+li.first-text {
+    top: 0%;
+    width: 50px;	
+}
+li.second-text {
+    top: 32%;
+	width: 40px;
+}	
+li.third-text {
+    left: -8%;
+    width: 80px;
+    bottom: 15%;
+}
+li.fourth-text {
+    right: -9%;
+    width: 95px;
+    top: 0;
+}
+li.fifth-text {
+    right: -4%;
+    top: 32%;
+	width: 60px;
+}
+li.sixth-text {
+    right: -9%;
+    width: 80px;
+	bottom: 15%;
+}
+.icons li a {
+    padding: 7px 0px;
+}
+.icons li {
+    width: 35px;
+    height: 35px;
+}
+.icons li.countorder a img {
+    height: 20px;
+}
+.icons li a img {
+    width: 20px;
+}
+.circle-logo-wrap ul li {
+    font-size: 10px;
+	line-height: 12px;
+}
+.circle-logoinner img {
+    width: 100%;
+}
+}
+@media only screen and (max-width: 479px) {
+.page-title-box h4 {
+    font-size: 14px !important;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    padding-right: 0.2rem;
+}
+.breadcrumb-item + .breadcrumb-item {
+    padding-left: 0.2rem;
+}
+}
+@media only screen and (max-width: 450px) {
+.circle-logo-wrap {
+    display: none;
+}	
+.banner-wrap .banner-inner .col-2.col-sm-2.col-lg-2 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}	
+.icons li {
+    width: 75px;
+    height: 75px;
+    position: inherit;
+    display: inline-block;
+    text-align: center;
+    margin: 20px 5px;
+    box-shadow: none;
+	background: transparent;
+}
+.icons li a {
+    padding: 16.74px 0px;
+    background: #fff;
+    border-radius: 100%;
+    box-shadow: 3px 6px 0px 0px rgb(152 98 34 / 50%);
+	width: 75px;
+    height: 75px;
+}
+.banner-inner ul {
+    padding: 0px;
+    text-align: center;
+	margin: 10px 0px;
+}
+.icons li.countorder a img {
+    height: 41.54px;
+}	
+.icons li a img {
+    width: 41.54px;
+}
+.banner-wrap {
+    padding: 50px 0px;
+}
+.icons li p {
+    color: #fff;
+    font-size: 12px;
+    line-height: 14px;
+	margin-top: 5px;
+}
+ul.icons.firstthree li,ul.icons.firstthree {
+    margin-top: 0px;
+}
+.icons li p {
+	display: block;
+}
+}

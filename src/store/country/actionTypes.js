@@ -1,0 +1,3 @@
+export const GET_COUNTRIES = 'GET_COUNTRIES';
+export const SET_COUNTRIES = 'SET_COUNTRIES';
+export const API_ERROR = 'LOGIN_API_ERROR';

@@ -1,0 +1,99 @@
+.no-bullet {
+    list-style-type: none;
+}
+.table th, .table td {
+    vertical-align: middle!important;
+}
+.table-responsive {
+    display: block;
+    width: 100%;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+
+/***************************  Media Query Start  *****************************/
+
+@media only screen and (max-width: 992px) {
+.navbar-brand-box {
+    padding: 0px!important;
+}
+.logo span.logo-sm {
+	display: none !important;
+}
+}
+
+@media only screen and (max-width: 768px) {
+.card .card-body .col-md-0 {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.navbar-brand-box {
+    padding: 0px!important;
+}
+.wookai_blue_button {
+    width: 100%;
+}
+.card .card-body .float-right.form-group {
+    width: 100%;
+}
+.table-responsive table.table.table-striped.mb-0.table.table {
+    width: 1590px;
+}
+.table th, .table td {
+    vertical-align: middle!important;
+        padding: 5px 8px!important;
+}
+.card-body {
+    padding: 10px!important;
+}
+}
+
+@media only screen and (max-width: 767px) {
+.list-items .float-left.form-group {
+    width: 100%!important;	
+}	
+}
+@media only screen and (max-width: 560px) {
+.wookai_blue_button {
+    width: 100%!important;
+}
+.card .card-body .float-right.form-group {
+    width: 100%!important;
+}
+.table-responsive table.table.table-striped.mb-0.table.table {
+    width: 1590px;
+}
+.table th, .table td {
+    vertical-align: middle!important;
+        padding: 5px 8px!important;
+}
+.card-body {
+    padding: 10px!important;
+}
+button.btn.wookai_blue_button.waves-effect.btn.btn-secondary {
+    width: 100%;
+}
+
+}
+
+@media only screen and (max-width: 412px) {
+.wookai_blue_button {
+    width: 100%;
+}
+.card .card-body .float-right.form-group {
+    width: 100%;
+}
+
+.table th, .table td {
+    vertical-align: middle!important;
+}
+}
+
+
+
+
+

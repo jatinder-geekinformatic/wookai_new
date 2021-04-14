@@ -1,0 +1,5 @@
+export const API_ERROR = 'LOGIN_API_ERROR';
+export const SET_ACCOUNT = 'SET_ACCOUNT';
+export const EMPTY_ACCOUNT = 'EMPTY_ACCOUNT';
+export const EDIT_ACCOUNT = 'EDIT_ACCOUNT';
+export const UPDATE_ACCOUNT = 'UPDATE_ACCOUNT';

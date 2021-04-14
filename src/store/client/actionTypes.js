@@ -1,0 +1,10 @@
+export const GET_CLIENTS = 'GET_CLIENTS';
+export const SET_CLIENTS = 'SET_CLIENTS';
+export const API_ERROR = 'LOGIN_API_ERROR';
+export const SET_CLIENT = 'SET_CLIENT';
+export const ADD_CLIENT = 'ADD_CLIENT';
+export const EMPTY_CLIENT = 'EMPTY_CLIENT';
+export const DELETE_CLIENT = 'DELETE_CLIENT';
+export const EDIT_CLIENT = 'EDIT_CLIENT';
+export const UPDATE_CLIENT = 'UPDATE_CLIENT';
+export const SET_CLIENT_FILTER = 'SET_CLIENT_FILTER';

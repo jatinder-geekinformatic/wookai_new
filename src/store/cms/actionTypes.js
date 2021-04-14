@@ -1,0 +1,10 @@
+export const GET_CMS = 'GET_CMS';
+export const SET_CMS = 'SET_CMS';
+export const API_ERROR = 'LOGIN_API_ERROR';
+export const SET_CM = 'SET_CM';
+export const ADD_CM = 'ADD_CM';
+export const EMPTY_CM = 'EMPTY_CM';
+export const DELETE_CM = 'DELETE_CM';
+export const EDIT_CM = 'EDIT_CM';
+export const UPDATE_CM = 'UPDATE_CM';
+export const SET_CMS_FILTER = 'SET_CMS_FILTER';

@@ -1,0 +1,11 @@
+export const GET_PRODUCTS = 'GET_PRODUCTS';
+export const SET_PRODUCTS = 'SET_PRODUCTS';
+export const API_ERROR = 'LOGIN_API_ERROR';
+export const SET_PRODUCT = 'SET_PRODUCT';
+export const ADD_PRODUCT = 'ADD_PRODUCT';
+export const EMPTY_PRODUCT = 'EMPTY_PRODUCT';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const EDIT_PRODUCT = 'EDIT_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const SET_PRODUCT_FILTER = 'SET_PRODUCT_FILTER';
+export const ADD_PRODUCT_SORT = 'ADD_PRODUCT_SORT';
